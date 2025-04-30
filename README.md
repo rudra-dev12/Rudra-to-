@@ -14,7 +14,7 @@
     @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;700&display=swap');
     @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap');
     @import url('https://fonts.googleapis.com/css2?family=Inter&family=Itim&display=swap');
-    <!DOCTYPE html>
+    
     :root {
     --poppins: 'Poppins', sans-serif;
     --nunito: 'Nunito Sans', sans-serif;
@@ -23,7 +23,7 @@
     --itim: 'Itim', cursive;
     --inter: 'Inter', sans-serif;
     }
-
+<!DOCTYPE html>
     html, body {position: relative;height: 100%;}
     body {background: #000;font-family: 'Itim', cursive;font-size: 14px;color: #fff;text-shadow: 0px 2px 2px rgba(0, 0, 0, .5);margin: 0;padding: 0;}
     
